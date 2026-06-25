@@ -486,10 +486,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "../gerbers/",
+      "pos_files": "../placement/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "usb_hub.step",
       "svg": "",
       "vrml": ""
     },
