@@ -2,14 +2,27 @@
 
 This is a USB hub! It can turn a USB-C port into 2 USB-C, 1 USB-A, and 1 micro USB port! I made this because my computer only has 2 usb ports, and it would be nice to have more.
 
+<img alt="image of the hub with components" src="https://cdn.hackclub.com/019efc94-acd8-717f-8879-30e9305e6877/image.png" />
+
 ## How do I make one?
 
-Download the files in the build folder and send them to jlcpcb.
+Download the files in the build folder.
+
+Upload gerbers.zip to jlcpcb and then when it asks you, also upload the BOM.csv and usb_hub-top-pos.csv
+
+## Wiring
+
+<img alt="schematic" src="https://cdn.hackclub.com/019efc94-af53-7ef3-a2ec-abfc07529987/image.png" />
+
+
 
 ## Other
 
 Zine:
 
-Onshape link:
+
+
+
+Onshape link: https://cad.onshape.com/documents/7b7fd740aa52e77060fd7bb4/w/7f4e311eedb2c35120bdcaf0/e/8b9d3132d698a1109065d1cb
 
 This project was made for Hack Club's Fallout program.
