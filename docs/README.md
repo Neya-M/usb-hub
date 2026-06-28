@@ -10,6 +10,11 @@ Download the files in the build folder.
 
 Upload gerbers.zip to jlcpcb and then when it asks you, also upload the BOM.csv and usb_hub-top-pos.csv
 
+Also print out the case! See below:
+
+<img width="929" height="662" alt="image" src="https://github.com/user-attachments/assets/2db1064d-4dc9-4602-ac76-7c6819bae06a" />
+
+
 ## Wiring
 
 <img alt="schematic" src="https://cdn.hackclub.com/019efc94-af53-7ef3-a2ec-abfc07529987/image.png" />
